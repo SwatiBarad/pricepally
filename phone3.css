@@ -1,0 +1,61 @@
+.category {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.categoty_right > img {
+    width: 21vw;
+    margin-top: 10%;
+}
+.grocery1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.down > button {
+    width: 36vw;
+}
+.up img {
+    height: 16vh;
+    width: 35vw;
+}
+.btn > button{
+    margin-top: -10px;
+}
+.service{
+    height: 22vh;
+}
+.footer {
+    display: flex;
+   
+    flex-direction: column;
+    margin: 0% 6%;
+    justify-content: center;
+    align-items: center;
+    ;
+    height: 62vh;
+}
+.footer_2 > .form > h5 {
+    text-align: center;
+    font-size: var(--medium-size);
+}
+.btn_1 > button {
+    width: 73%;
+}
+.service_in {
+    text-align: center;
+    cursor: pointer;
+    margin: 0 12%;
+}
+
+.food {
+    margin: auto;
+    height: 40vh;
+}
+.media {
+    column-gap: 0;
+}
+.sec-3 > .left1 > h2 {
+    font-size: 1.5rem;
+}
+.dropdown {
+    display: none;
+}

@@ -1,0 +1,19 @@
+:root {
+    
+    --small-size: 0.86rem;
+    --extra-small-size:0.75rem;
+
+}
+
+.up img {
+    height: 16vh;
+    width: 23vw;
+}
+.end {
+    line-height: 1.6;
+    text-align: center;
+}
+.food {
+    margin: auto;
+    height: 40vh;
+}

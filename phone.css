@@ -1,0 +1,50 @@
+:root{
+    --big-size:2rem;
+    --medium-size:0.96rem;
+    --small-size:0.7rem;
+    --extra-small-size:0.75rem;
+}
+.navigation-2 input{
+    height: 4vh;
+}
+.sec-1 , .sec-2 {
+    height: 20vh;
+    margin-top: 2%;
+}
+.container-1 > .sec-1 > .left1 > img ,
+.container-1 > .sec-2 > .left1 > img {
+    height: 14vh;
+  
+}
+.categoty_right > img {
+    width: 10vw;
+    margin-top: 20%;
+}
+.category1{
+    height: 19vh;
+}
+.food{
+    height: 47vh;
+}
+.media > img {
+    height: 18vh;
+}
+
+    .download_2 > img {
+        height: 30vh;
+        width: auto;
+        /* margin-left: 23%; */
+    }
+.download{
+    height: 30vh;
+}
+form > input[type="text"] {
+    width: 19vw;
+    height: 5vh;
+}
+form > input[type="email"]{
+    height: 5vh;
+}
+.btn_1 > button {
+    width: 32%;
+}

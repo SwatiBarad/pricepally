@@ -1,0 +1,81 @@
+nav{
+    display: grid;
+    grid-template-columns: 1fr 6fr;;
+}
+.navigation-3{
+    display: none;
+}
+.container-1 {
+    grid-template-columns: 1fr 1fr;
+}
+.container-1 > .sec-3 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.right1{
+    width: 100%;
+}
+.category {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.category1 {
+    height: 17vh;
+}
+
+.categoty_right > img {
+    width: 14vw;
+    margin-top: 10%;
+}
+.dropdown{
+    column-gap: 5%;
+    margin-left: 24%;
+}
+.grocery1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.food {
+    margin: auto;
+    height: 47vh;
+}
+.btn > button{
+    width: 40vw;
+}
+.media > img {
+    height: 10vh;
+}
+.download_2 > img {
+    height: 21vh;
+    margin: 0;
+}
+.download {
+    
+    height: 23vh;
+}
+.download_1 > img {
+    height: 8vh;
+    width: 18vw;
+margin-left: 0;}
+
+.download_1 {
+    margin-right: 0%;
+}
+form > input[type="text"] {
+    width: 19vw;
+    height: 5vh;
+}
+form > input[type="email"]{
+    height: 5vh;
+}
+.btn_1 > button {
+    width: 32%;
+}
+.footer_1_1 {
+    margin: 0 4%
+}
+.up img {
+    height: 21vh;
+    width: 26vw;
+    border-radius: 7px;
+}
